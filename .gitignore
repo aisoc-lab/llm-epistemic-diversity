@@ -1,0 +1,13 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Generated results: regenerate via scripts/generate.py + scripts/annotate.py, or restore
+# from a local copy.
+data/results/annotated/
+data/results/metrics/
+data/results/raw/
+
+tests/

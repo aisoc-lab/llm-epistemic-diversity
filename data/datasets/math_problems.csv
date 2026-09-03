@@ -1,0 +1,108 @@
+filename,problem,question
+1.md,"== Fermat’s Little Theorem ==
+
+Let $a$ be a positive integer and $p$ be a prime. Then prove that
+$$
+a^p \equiv a \mod p
+$$
+For every prime number $p$ and every integer $a$.
+
+","You will be given a mathematical problem in markdown format. Your task is to provide a proof.
+
+Here is the problem:
+
+== Fermat’s Little Theorem ==
+
+Let $a$ be a positive integer and $p$ be a prime. Then prove that
+$$
+a^p \equiv a \mod p
+$$
+For every prime number $p$ and every integer $a$.
+
+"
+2.md,"Let $\Omega$ be a set of points in the plane. Each point in $\Omega$ is a midpoint of two points in $\Omega$. Show that $\Omega$ is an infinite set.
+","You will be given a mathematical problem in markdown format. Your task is to provide a proof.
+
+Here is the problem:
+
+Let $\Omega$ be a set of points in the plane. Each point in $\Omega$ is a midpoint of two points in $\Omega$. Show that $\Omega$ is an infinite set.
+"
+3.md,"Show that for real $a$, $b$, $c$:
+
+$$
+a^2 + b^2 + c^2 \geq ab + bc + ca.
+$$
+
+","You will be given a mathematical problem in markdown format. Your task is to provide a proof.
+
+Here is the problem:
+
+Show that for real $a$, $b$, $c$:
+
+$$
+a^2 + b^2 + c^2 \geq ab + bc + ca.
+$$
+
+"
+4.md,"Prove the inequality of arithmetic and geometric means, aka the AM-GM inequality. The inequality states that the arithmetic mean of a list of non-negative real numbers is greater than or equal to the geometric mean of the same list.
+
+","You will be given a mathematical problem in markdown format. Your task is to provide a proof.
+
+Here is the problem:
+
+Prove the inequality of arithmetic and geometric means, aka the AM-GM inequality. The inequality states that the arithmetic mean of a list of non-negative real numbers is greater than or equal to the geometric mean of the same list.
+
+"
+5.md,"Prove that for any triangle with sides $a$, $b$, $c$ and area $A$:
+
+$$
+a^2 + b^2 + c^2 \geq 4 \sqrt 3 A
+$$
+","You will be given a mathematical problem in markdown format. Your task is to provide a proof.
+
+Here is the problem:
+
+Prove that for any triangle with sides $a$, $b$, $c$ and area $A$:
+
+$$
+a^2 + b^2 + c^2 \geq 4 \sqrt 3 A
+$$
+"
+6.md,"Let $R$ and $r$ be the radii of the circumcircle and incircle of a triangle. Then prove that
+
+$$
+R \geq 2r.
+$$
+","You will be given a mathematical problem in markdown format. Your task is to provide a proof.
+
+Here is the problem:
+
+Let $R$ and $r$ be the radii of the circumcircle and incircle of a triangle. Then prove that
+
+$$
+R \geq 2r.
+$$
+"
+7.md,"On a square $ABCD$ with side $a$, we construct an isosceles triangle $CDE$ to its interior with legs $b$, so that $\angle ABE = 15^\degree$. Prove that $b=a$.
+","You will be given a mathematical problem in markdown format. Your task is to provide a proof.
+
+Here is the problem:
+
+On a square $ABCD$ with side $a$, we construct an isosceles triangle $CDE$ to its interior with legs $b$, so that $\angle ABE = 15^\degree$. Prove that $b=a$.
+"
+8.md,"An equilateral triangle $ABC$ is inscribed in a circle. An arbitrary point $M$ is chosen on the arc $BC$. Prove that $|MA| = |MB| + |MC|$.
+","You will be given a mathematical problem in markdown format. Your task is to provide a proof.
+
+Here is the problem:
+
+An equilateral triangle $ABC$ is inscribed in a circle. An arbitrary point $M$ is chosen on the arc $BC$. Prove that $|MA| = |MB| + |MC|$.
+"
+9.md,"There are infinitely many prime numbers.
+
+","You will be given a mathematical problem in markdown format. Your task is to provide a proof.
+
+Here is the problem:
+
+There are infinitely many prime numbers.
+
+"

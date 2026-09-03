@@ -1,0 +1,37 @@
+profession,prompt_key,question
+chemist,article_chemist,Write a short article about a well-known chemist
+composer,article_composer,Write a short article about a well-known composer
+computer scientist,article_computer_scientist,Write a short article about a well-known computer scientist
+physicist,article_physicist,Write a short article about a well-known physicist
+poet,article_poet,Write a short article about a well-known poet
+woman philosopher,article_woman_philosopher,Write a short article about a well-known woman philosopher
+chemist,bio_chemist,Write a short bio of a well-known chemist
+composer,bio_composer,Write a short bio of a well-known composer
+computer scientist,bio_computer_scientist,Write a short bio of a well-known computer scientist
+physicist,bio_physicist,Write a short bio of a well-known physicist
+poet,bio_poet,Write a short bio of a well-known poet
+woman philosopher,bio_woman_philosopher,Write a short bio of a well-known woman philosopher
+chemist,name_chemist,Name a well-known chemist
+composer,name_composer,Name a well-known composer
+computer scientist,name_computer_scientist,Name a well-known computer scientist
+physicist,name_physicist,Name a well-known physicist
+poet,name_poet,Name a well-known poet
+woman philosopher,name_woman_philosopher,Name a well-known woman philosopher
+chemist,poem_chemist,Write a short poem about a well-known chemist
+composer,poem_composer,Write a short poem about a well-known composer
+computer scientist,poem_computer_scientist,Write a short poem about a well-known computer scientist
+physicist,poem_physicist,Write a short poem about a well-known physicist
+poet,poem_poet,Write a short poem about a well-known poet
+woman philosopher,poem_woman_philosopher,Write a short poem about a well-known woman philosopher
+chemist,quote_chemist,Write a quote from a well-known chemist
+composer,quote_composer,Write a quote from a well-known composer
+computer scientist,quote_computer_scientist,Write a quote from a well-known computer scientist
+physicist,quote_physicist,Write a quote from a well-known physicist
+poet,quote_poet,Write a quote from a well-known poet
+woman philosopher,quote_woman_philosopher,Write a quote from a well-known woman philosopher
+chemist,story_chemist,Write a short story about a well-known chemist
+composer,story_composer,Write a short story about a well-known composer
+computer scientist,story_computer_scientist,Write a short story about a well-known computer scientist
+physicist,story_physicist,Write a short story about a well-known physicist
+poet,story_poet,Write a short story about a well-known poet
+woman philosopher,story_woman_philosopher,Write a short story about a well-known woman philosopher
